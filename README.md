@@ -11,3 +11,9 @@
  </p>
 
 <hr />
+
+### 🧐About
+
+yusTori has been created with the purpose of sharing nature, mystery and fantasy stories with the rest of the world, and enjoying them live.
+
+In the best environment of all: a bonfire in the forest with the starry sky and in the company of a group of friends
