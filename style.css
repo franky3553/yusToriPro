@@ -110,3 +110,18 @@ button{
 button:hover{
    background-color: rgb(255, 242, 0); 
 }
+
+/* - - - - - - About Us Section - - - - - - */
+
+.aboutUs{
+   text-align: center;
+   padding: 200px 12px;
+}
+
+.aboutUs span{
+   color:rgb(204, 129, 0);
+}
+
+.textAboutUs{
+   margin: 0px 60px;
+}
