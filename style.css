@@ -407,3 +407,12 @@ button:hover{
       max-width: 430px;
    }
 }
+
+@media (min-width: 750px){
+
+   /* - - - - - - Team Section - - - - - - */
+
+   .collaborators{
+      max-width: 660px;
+   }
+}
