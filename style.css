@@ -77,7 +77,7 @@ li{ font-size: 1em;}
        rgba(0,0,0,0.5),
        rgba(0,0,0,0.5)
    )
-   ,url("media/campFire4.jpg");
+   ,url("campFire4.jpg");
    background-repeat: no-repeat;
    background-size: cover;
    background-position: center center;
@@ -154,7 +154,7 @@ button:hover{
        rgba(0,0,0,0.5),
        rgba(0,0,0,0.5)
    )
-   ,url("media/campFire6.jpg");
+   ,url("campFire6.jpg");
 
 }
 
@@ -164,7 +164,7 @@ button:hover{
        rgba(0,0,0,0.5),
        rgba(0,0,0,0.5)
    )
-   ,url("media/campFire9.jpg");
+   ,url("campFire9.jpg");
 }
 
 .step:nth-child(3){
@@ -173,7 +173,7 @@ button:hover{
        rgba(0,0,0,0.5),
        rgba(0,0,0,0.5)
    )
-   ,url("media/campFire5.jpg");
+   ,url("campFire5.jpg");
 }
 
 /* - - - - - - Footer - - - - - - */
@@ -209,7 +209,7 @@ button:hover{
       rgba(0, 0, 0, 0.3),
       rgba(0,0,0,0.3)
    )
-   ,url("media/forest.jpg");
+   ,url("forest.jpg");
    background-repeat: no-repeat;
    background-size: cover;
    background-position: center center;
@@ -247,7 +247,7 @@ button:hover{
        rgba(0,0,0,0.5),
        rgba(0,0,0,0.5)
    )
-   ,url("media/campFire3.jpg");
+   ,url("campFire3.jpg");
    background-repeat: no-repeat;
    background-size: cover;
    background-position: center center;
@@ -323,7 +323,7 @@ button:hover{
    }
 
    .imageAboutUs{
-      background-image: url("media/campFire7.jpg");
+      background-image: url("campFire7.jpg");
       background-size: cover;
       background-position: center center;
       border-radius: 30px;
@@ -368,7 +368,7 @@ button:hover{
          rgba(0,0,0,0.5),
          rgba(0,0,0,0.5)
       )
-      ,url("media/campFire6.jpg");
+      ,url("campFire6.jpg");
 
    }
 
@@ -378,7 +378,7 @@ button:hover{
          rgba(0,0,0,0.5),
          rgba(0,0,0,0.5)
       )
-      ,url("media/campFire9.jpg");
+      ,url("campFire9.jpg");
    }
 
    .step:nth-child(3){
@@ -387,7 +387,7 @@ button:hover{
          rgba(0,0,0,0.5),
          rgba(0,0,0,0.5)
       )
-      ,url("media/campFire5.jpg");
+      ,url("campFire5.jpg");
 
    }
    
