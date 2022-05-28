@@ -40,3 +40,11 @@ In the best environment of all: a bonfire in the forest with the starry sky and 
 
 ##### Acces section
 ![image](https://user-images.githubusercontent.com/45402163/170821752-93060c8f-901c-405c-9c82-ee0230d54f81.png)
+
+### Difficulties
+
+There are three points where I have had greater difficulties
+-   Center divs
+-   Align div childs
+-   Upload to gitHub (Upload images doesn't work)
+
