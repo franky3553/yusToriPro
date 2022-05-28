@@ -125,3 +125,21 @@ button:hover{
 .textAboutUs{
    margin: 0px 60px;
 }
+
+/* - - - - - - How to do Section - - - - - - */
+
+.howToDo{
+   padding: 36px 12px;
+   background-color: rgb(30,30,30);
+   color: white;
+   text-align: center;
+}
+
+.howToDo .step{
+   background-position: center center;
+   background-size: cover;
+   padding: 50px 20px;
+   margin: 30px 10px;
+   border-radius: 15px;
+   box-shadow: 2px 2px 21px rgb(0, 0, 0);
+}
