@@ -398,3 +398,12 @@ button:hover{
    
    
 }
+
+@media (min-width: 500px){
+
+   /* - - - - - - Team Section - - - - - - */
+
+   .collaborators{
+      max-width: 430px;
+   }
+}
