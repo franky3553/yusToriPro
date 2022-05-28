@@ -53,7 +53,7 @@ There are three points where I have had greater difficulties
 In the future there will be many followers and we will need a way to organize the stories that they send us
 
 -   Create login
--   Create reward system if your story is good
+-   Create reward system if users story is good
 		
 ### 💡Validators
 
