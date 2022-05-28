@@ -143,3 +143,35 @@ button:hover{
    border-radius: 15px;
    box-shadow: 2px 2px 21px rgb(0, 0, 0);
 }
+
+.howToDo span{
+   color:rgb(204, 129, 0);
+}
+
+.step:nth-child(1){
+   background-image: linear-gradient(
+       0deg,
+       rgba(0,0,0,0.5),
+       rgba(0,0,0,0.5)
+   )
+   ,url("media/campFire6.jpg");
+
+}
+
+.step:nth-child(2){
+   background-image: linear-gradient(
+       0deg,
+       rgba(0,0,0,0.5),
+       rgba(0,0,0,0.5)
+   )
+   ,url("media/campFire9.jpg");
+}
+
+.step:nth-child(3){
+   background-image: linear-gradient(
+       0deg,
+       rgba(0,0,0,0.5),
+       rgba(0,0,0,0.5)
+   )
+   ,url("media/campFire5.jpg");
+}
