@@ -55,3 +55,11 @@ In the future there will be many followers and we will need a way to organize th
 -   Create login
 -   Create reward system if your story is good
 		
+### 💡Validators
+
+- html PASS
+- css PASS
+		
+### 👋End Note
+
+It has been a pleasure developing this project.	
