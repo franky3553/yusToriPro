@@ -18,3 +18,47 @@ li{ font-size: 1em;}
    margin: auto;
 }
 
+/* - - - - - - Navigation Bar - - - - - - */
+
+.navBar{
+   background-color: rgb(245,245,245);
+}
+
+.navBar .container{
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+   
+}
+
+.navBar .logo{
+   display: flex;
+   flex-direction: row;
+
+   padding-bottom: 15px;
+   font-weight: bold;
+   color: rgb(204, 129, 0);
+   font-size: 2em;
+}
+
+.navBar nav{
+   display: flex;
+   flex-direction: row;
+   justify-content: center;
+   padding-bottom: 25px;
+}
+
+.navBar a{
+   padding: 0px 12px;
+   text-decoration: none;
+   font-weight: bold;
+   color: black;
+}
+
+.navBar a:hover{
+   color: rgb(204, 129, 0);
+}
+
+.a span{
+   color:rgb(204, 129, 0);
+}
