@@ -48,3 +48,10 @@ There are three points where I have had greater difficulties
 -   Align div childs
 -   Upload to gitHub (Upload images doesn't work)
 
+### 📈Future Plans
+
+In the future there will be many followers and we will need a way to organize the stories that they send us
+
+-   Create login
+-   Create reward system if your story is good
+		
