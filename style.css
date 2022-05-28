@@ -175,3 +175,23 @@ button:hover{
    )
    ,url("media/campFire5.jpg");
 }
+
+/* - - - - - - Footer - - - - - - */
+
+.footer{
+   width: 100%;
+   background-image: linear-gradient(
+      0deg,
+      rgba(0, 0, 0, 0.87),
+      rgba(0,0,0,.9)
+   );
+}
+.footer .container{
+   
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+   padding: 10px 10px;
+   border-bottom: 1px solid rgb(64, 64, 64);
+   color: #ccc;
+}
